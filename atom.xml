@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Eddy&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-07-02T16:00:42.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Eddy</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>libra</title>
+    <link href="http://yoursite.com/2019/07/01/libra/"/>
+    <id>http://yoursite.com/2019/07/01/libra/</id>
+    <published>2019-07-01T22:15:24.000Z</published>
+    <updated>2019-07-02T16:00:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/.com//libra/libra.png" alt="hexo image">]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/.com//libra/libra.png&quot; alt=&quot;hexo image&quot;&gt;
+
+      
+    
+    </summary>
+    
+      <category term="news" scheme="http://yoursite.com/categories/news/"/>
+    
+    
+      <category term="Facebook" scheme="http://yoursite.com/tags/Facebook/"/>
+    
+      <category term="区块链" scheme="http://yoursite.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="虚拟货币" scheme="http://yoursite.com/tags/%E8%99%9A%E6%8B%9F%E8%B4%A7%E5%B8%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>h</title>
+    <link href="http://yoursite.com/2019/07/01/h/"/>
+    <id>http://yoursite.com/2019/07/01/h/</id>
+    <published>2019-07-01T21:30:07.000Z</published>
+    <updated>2019-07-01T21:30:07.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>g</title>
+    <link href="http://yoursite.com/2019/07/01/g/"/>
+    <id>http://yoursite.com/2019/07/01/g/</id>
+    <published>2019-07-01T21:18:04.000Z</published>
+    <updated>2019-07-01T21:18:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Thanks for reading</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Thanks for reading&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>d</title>
+    <link href="http://yoursite.com/2019/07/01/d/"/>
+    <id>http://yoursite.com/2019/07/01/d/</id>
+    <published>2019-07-01T21:04:20.000Z</published>
+    <updated>2019-07-01T21:04:20.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>b</title>
+    <link href="http://yoursite.com/2019/07/01/b/"/>
+    <id>http://yoursite.com/2019/07/01/b/</id>
+    <published>2019-07-01T21:01:38.000Z</published>
+    <updated>2019-07-01T21:30:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>tag Plugins</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;tag Plugins&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>a</title>
+    <link href="http://yoursite.com/2019/07/01/a/"/>
+    <id>http://yoursite.com/2019/07/01/a/</id>
+    <published>2019-07-01T20:56:30.000Z</published>
+    <updated>2019-07-01T21:21:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>i love you</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;i love you&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="Cat1" scheme="http://yoursite.com/categories/Cat1/"/>
+    
+      <category term="Cat1.1" scheme="http://yoursite.com/categories/Cat1/Cat1-1/"/>
+    
+      <category term="Cat2" scheme="http://yoursite.com/categories/Cat2/"/>
+    
+      <category term="Cat3" scheme="http://yoursite.com/categories/Cat3/"/>
+    
+    
+      <category term="ariel" scheme="http://yoursite.com/tags/ariel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/07/01/hello-world/"/>
+    <id>http://yoursite.com/2019/07/01/hello-world/</id>
+    <published>2019-07-01T20:46:54.000Z</published>
+    <updated>2019-07-01T20:46:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
