@@ -18,8 +18,8 @@
   
   <entry>
     <title>libra</title>
-    <link href="http://yoursite.com/2019/07/01/libra/"/>
-    <id>http://yoursite.com/2019/07/01/libra/</id>
+    <link href="http://yoursite.com/2019/07/02/libra/"/>
+    <id>http://yoursite.com/2019/07/02/libra/</id>
     <published>2019-07-01T22:15:24.000Z</published>
     <updated>2019-07-02T16:00:42.000Z</updated>
     
@@ -47,113 +47,9 @@
   </entry>
   
   <entry>
-    <title>h</title>
-    <link href="http://yoursite.com/2019/07/01/h/"/>
-    <id>http://yoursite.com/2019/07/01/h/</id>
-    <published>2019-07-01T21:30:07.000Z</published>
-    <updated>2019-07-01T21:30:07.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>g</title>
-    <link href="http://yoursite.com/2019/07/01/g/"/>
-    <id>http://yoursite.com/2019/07/01/g/</id>
-    <published>2019-07-01T21:18:04.000Z</published>
-    <updated>2019-07-01T21:18:04.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Thanks for reading</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Thanks for reading&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>d</title>
-    <link href="http://yoursite.com/2019/07/01/d/"/>
-    <id>http://yoursite.com/2019/07/01/d/</id>
-    <published>2019-07-01T21:04:20.000Z</published>
-    <updated>2019-07-01T21:04:20.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>b</title>
-    <link href="http://yoursite.com/2019/07/01/b/"/>
-    <id>http://yoursite.com/2019/07/01/b/</id>
-    <published>2019-07-01T21:01:38.000Z</published>
-    <updated>2019-07-01T21:30:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>tag Plugins</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;tag Plugins&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>a</title>
-    <link href="http://yoursite.com/2019/07/01/a/"/>
-    <id>http://yoursite.com/2019/07/01/a/</id>
-    <published>2019-07-01T20:56:30.000Z</published>
-    <updated>2019-07-01T21:21:57.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>i love you</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;i love you&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-      <category term="Cat1" scheme="http://yoursite.com/categories/Cat1/"/>
-    
-      <category term="Cat1.1" scheme="http://yoursite.com/categories/Cat1/Cat1-1/"/>
-    
-      <category term="Cat2" scheme="http://yoursite.com/categories/Cat2/"/>
-    
-      <category term="Cat3" scheme="http://yoursite.com/categories/Cat3/"/>
-    
-    
-      <category term="ariel" scheme="http://yoursite.com/tags/ariel/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/07/01/hello-world/"/>
-    <id>http://yoursite.com/2019/07/01/hello-world/</id>
+    <link href="http://yoursite.com/2019/07/02/hello-world/"/>
+    <id>http://yoursite.com/2019/07/02/hello-world/</id>
     <published>2019-07-01T20:46:54.000Z</published>
     <updated>2019-07-01T20:46:54.000Z</updated>
     
